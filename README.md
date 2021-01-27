@@ -2,7 +2,6 @@
 
 
 #Electricity Bill Amount program
-# x  is limit of 1st unit value
 
 x = 100
 
